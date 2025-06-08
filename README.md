@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aseel
+# Hello, I'm Aseel
 
 I'm an IT graduate with a strong interest in **Data Engineering**.  
 Currently building my knowledge around cloud-based data pipelines, scalable storage systems, and distributed processing tools.  
@@ -6,7 +6,7 @@ I believe in learning by doing — and I'm documenting that journey right here.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Preparing for **AWS Certified Data Engineer – Associate**
 - Deepening knowledge in:
@@ -17,7 +17,7 @@ I believe in learning by doing — and I'm documenting that journey right here.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Category       | Tools & Technologies |
 |----------------|----------------------|
@@ -29,21 +29,21 @@ I believe in learning by doing — and I'm documenting that journey right here.
 
 ---
 
-## 📁 Projects & Repositories
+## Projects & Repositories
 
 > Currently working on structuring and documenting my learning path.  
 > Public repositories will be added soon to reflect core concepts and practical applications in Data Engineering.
 
 ---
 
-## 📚 Certifications & Learning Path
+## Certifications & Learning Path
 
 - 🎓 [In Progress] AWS Certified Data Engineer – Associate  
 - 📘 Continuous review of core data concepts (ETL, Data Modeling, Lakehouse Architecture)
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/aseel-althobaity)  
 - [X](https://x.com/TechAee23)  
