@@ -47,7 +47,7 @@ I believe in learning by doing — and I'm documenting that journey right here.
 
 - [LinkedIn](https://linkedin.com/in/aseel-althobaity)  
 - [X](https://x.com/TechAee23)  
-- [Email](aseel.althubaitii@gmail.com)  
+- [Email](mailto:aseel.althubaitii@gmail.com) 
 
 ---
 
