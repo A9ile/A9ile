@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Aseel 👋
 
-<!--
-**A9ile/A9ile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Graduate exploring the world of Data Engineering.  
+🚀 Currently preparing for the **AWS Certified Data Engineer – Associate** certification.  
+🛠️ I’m working with Python, SQL, and AWS tools like Glue, S3, and Redshift.  
+📚 Documenting my journey and learning in public – stay tuned for hands-on projects and resources.
 
-Here are some ideas to get you started:
+## 📌 Current Focus
+- Reviewing SQL and Python fundamentals
+- Building data pipelines with AWS
+- Publishing learning notes and sample projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Find me here
+- [LinkedIn](https://linkedin.com/in/aseel-althobaity)
+- [X / Twitter](https://x.com/TechAee23)
